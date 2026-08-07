@@ -92,6 +92,7 @@ You can't use `--all-features` because of conflicting `native_tls` and `rustls_t
 
 The default features are:
 * acreplace: Aho-Corasick string matching and replacement.
+* cave_system_generator: Generates cave systems, like anthills.
 * cellularnoise: Function to generate cellular automata-based noise.
 * dmi: DMI manipulations which are impossible or degraded from within BYOND.
   Mostly used by the asset cache subsystem to improve load times.
